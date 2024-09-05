@@ -22,9 +22,14 @@ I am a **Front-End Developer** with over 8 years of experience in JavaScript, Re
 
 Currently, I’m developing modern UIs at **CHAS**, a leading compliance and risk management provider in the UK. I'm also diving into **Machine Learning** and exploring the mathematical principles behind it to further enhance my technical skill set.
 
-- 📚 Currently diving deeper into: **Python, Machine Learning, React Native, Math for ML, Data Structures and Algorithms**
-- 🎯 Fun Fact: I started my journey with a Fine Arts degree before diving deep into web development, and now I hold a **Master's degree in Computer Science with Software Engineering**!
-- 💼 Looking for collaboration? Let’s work together on **open-source projects**.
+- 📚 Currently diving deeper into:  
+  **Python, Machine Learning, React Native, Math for ML, Data Structures and Algorithms**
+
+- 🎯 Fun Fact:  
+  I started my journey with a Fine Arts degree before diving deep into web development, and now I hold a **Master's degree in Computer Science with Software Engineering**!
+
+- 💼 Looking for collaboration?  
+  Let’s work together on **open-source projects**.
 
 ---
 
