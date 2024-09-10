@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Front-End Developer based in London</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giuseppe-messi&label=Profile%20Views&color=blueviolet&style=flat" alt="giuseppe-messi" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/giuseppe-messina" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-giuseppe-messina" />
   </a>
