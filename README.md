@@ -1,76 +1,120 @@
-<h1 align="center">Hey there, I'm Giuseppe Messina 👋</h1>
-<h3 align="center">A passionate Front-End Developer based in London</h3>
+<h1 align="center">Giuseppe Messina </h1>
+<h3 align="center">Front-End Engineer based in London</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/giuseppe-messina" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-giuseppe-messina" />
-  </a>
-  <a href="mailto:giuseppe91messina@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-giuseppe-messina" />
-  </a>
-</p>
+### 🧑‍💻 About Me
 
----
+I’m **Giuseppe**, a **Senior Front-End Engineer** with over 8 years of experience building fast, scalable React applications.
 
-### 👨‍💻 About Me
+I’ve spent years building real-world apps in React, learning its APIs inside out and understanding why it’s designed the way it is. I love rolling up my sleeves with product teams to turn ideas into polished, accessible UIs.
 
-I am a **Front-End Developer** with over 8 years of experience in JavaScript, React, and responsive design. My passion lies in creating user-friendly, accessible, and visually appealing web applications. 
+I work closely with product teams to ship clean, accessible interfaces with solid functionality and smooth user experiences. 
 
-Currently, I’m developing modern UIs at **CHAS**, a leading compliance and risk management provider in the UK. I'm also diving into **Machine Learning** and exploring the mathematical principles behind it to further enhance my technical skill set.
+I structure components and hooks so their intent is obvious (self-documenting names, well-scoped props or TypeScript interfaces), and I back them up with unit and integration tests using Jest and React Testing Library. I automate linting, formatting, and type-checking in CI pipelines so we can merge with confidence.
 
-- 📚 Currently diving deeper into:  
-  **Python, Machine Learning, React Native, Math for ML, Data Structures and Algorithms**
+### 🚀 What you'll find here
 
-- 🎯 Fun Fact:  
-  I started my journey with a Fine Arts degree before diving deep into web development, and now I hold a **Master's degree in Computer Science with Software Engineering**!
+I’ve organized my work into two main areas on my GitHub:
 
-- 💼 Looking for collaboration?  
-  Let’s work together on **open-source projects**.
+1. **[React Skillset Monorepo](#react-skillset-monorepo)** – a comprehensive showcase of my React expertise split into a [Design System](#design-system) and [Examples & Micro-demos](#examples-demos).
+2. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio-v2), various Python algorithm implementations, and a personal full-stack COVID-19 hub, among others.
+
+Feel free to jump to any section using the links above!
 
 ---
 
-### 🛠️ Skills & Tools
+<a id="react-skillset-monorepo"></a>
+### 🛠️ Featured: [My React Skillset Monorepo](https://github.com/giuseppe-messi/react-skillset)
 
-#### Commercial Skills:
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
-  <img src="https://img.shields.io/badge/UI/UX-F8F8F8?style=for-the-badge&logo=uiux&logoColor=black" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Enzyme-84BC3D?style=for-the-badge" alt="Enzyme" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Agile/Scrum-28A745?style=for-the-badge&logo=agile&logoColor=white" alt="Agile/Scrum" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-</p>
+I built one **monorepo** to **showcase my core React skills** in action by creating a full-featured **Design System** and a set of **Examples & Micro-demos**, each targeting specific areas from my checklist (Core JavaScript & Web Fundamentals, React Fundamentals, State Management, Routing & Navigation, Styling & Theming, Type Safety, Data Fetching & API Integration, Forms & Validation, Testing, Build Tools & Workflow, Accessibility, Performance Optimization, Documentation & Design Systems, Deployment & CI/CD, and more).
 
-#### Personal & Educational Learning:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Math_for_ML-FFDD00?style=for-the-badge&logo=math&logoColor=black" alt="Math for ML" />
-  <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-FFDD00?style=for-the-badge" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
+This repo is powered by **Turborepo** (with Yarn Workspaces), fully typed with **TypeScript**, and kept consistent with **ESLint** & **Prettier**.
+
+<a id="design-system"></a>
+### 🎨 [Design System](https://github.com/giuseppe-messi/react-skillset/packages/design-system)
+A self-contained, production-ready React component library demonstrating:
+
+- **Core JavaScript & Web Fundamentals**  
+  ES6+ syntax (arrow functions, destructuring, spread/rest, template literals), modules (`import`/`export`), event handling & DOM APIs, asynchronous patterns (Promises, async/await, Fetch), Browser APIs (LocalStorage, SessionStorage, WebSockets), error handling, and debounce/throttle utilities.
+
+- **React Fundamentals**  
+  JSX & its transforms, function vs. class components, props & state, lifecycle phases (mount/update/unmount), built-in hooks (`useState`, `useEffect`, `useRef`, `useLayoutEffect`, `useMemo`, `useCallback`, `useContext`, `useReducer`), custom hooks, Context API, error boundaries, and advanced patterns (render-props, compound components).
+
+- **Styling & Theming**  
+  Design tokens (centralized variables for colors, typography, spacing), CSS-in-JS with **styled-components** or **Emotion**, CSS Modules for scoped styles, responsive design techniques, and a theme­provider architecture for light/dark modes.
+
+- **Type Safety**  
+  Full **TypeScript** setup with strict `tsconfig` rules, typed React props & state, utility & mapped types.
+
+- **Accessibility (a11y)**  
+  Semantic HTML, ARIA roles & attributes, keyboard navigation & focus management, high-contrast themes, screen-reader testing, and automated audits with **axe-core** or **Lighthouse**.
+
+- **Performance Optimization**  
+  Code-splitting with `React.lazy` & `Suspense`, route-based chunking, memoization (`React.memo`, `useMemo`, `useCallback`), list virtualization (react-window), image lazy-loading, bundle-size budgets enforced via plugins (e.g. `rollup-plugin-filesize`, `webpack-bundle-analyzer`), and profiling with React DevTools & Lighthouse CI.
+
+- **Testing**  
+  Unit tests (Jest + React Testing Library), visual regression with **Chromatic** (Storybook integration), end-to-end smoke tests, and network mocking via MSW.
+
+- **Documentation & Design Systems**  
+  Interactive component catalog with **Storybook**, MDX (Markdown + JSX) for rich examples & documentation, autogenerated prop tables & controls via the ArgsTable addon, and living style guides.
+
+- **Build Tools & Workflow**  
+  Library bundling with **Vite**, Turborepo pipelines for caching & parallel builds, semantic-release for automated versioning & npm publishing, and CI/CD pipelines on **GitHub Actions** (lint, type-check, test, build, publish).
+
+↳ [react-skillset/packages/design-system](react-skillset/packages/design-system)
+
+<a id="examples-demos"></a>
+### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-skillset/packages/examples)
+Four ~200-LOC samples, each covering additional core skills:
+
+1. **Auth-Guarded Docs & SSR**
+   - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
+   - **Data Fetching & API Integration**: SSG for public docs, SSR for protected pages
+   - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
+   - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
+   ↳ [packages/examples/auth-docs](packages/examples/auth-docs)
+
+2. **State & API Playground**
+   - **State Management**: Zustand or Redux Toolkit + `useReducer`
+   - **Data Fetching & API Integration**: `fetch` + MSW mocking + optimistic UI
+   - **Testing**: Jest & React Testing Library for error/loading states
+   - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
+   ↳ [packages/examples/todo-playground](packages/examples/todo-playground)
+
+3. **PWA Cache Demo**
+   - **Core JS/Web Fundamentals**: Service Workers, IndexedDB via localForage, Web APIs
+   - **Data Fetching & API Integration**: fetch + runtime caching (Workbox)
+   - **Accessibility**: offline state banner, progressive enhancement
+   - **Build Tools & Workflow**: Vite PWA template, manifest.json
+   ↳ [packages/examples/pwa-demo](packages/examples/pwa-demo)
+
+4. **Cross-Platform UI**
+   - **React Fundamentals** & **Type Safety**: JSX, props & state, TypeScript
+   - **Styling & Theming**: shared design-system tokens across web & native
+   - **Component Architecture**: code-sharing via React Native Web
+   - **Build Tools & Workflow**: Metro/RNW bundling, platform-agnostic styling
+   ↳ [react-skillset/packages/examples](react-skillset/packages/examples)
 
 ---
 
-### 📫 Contact Me
+<a id="other-repos"></a>
+### 🗃️ Other Repositories
 
-- 📧 Email: **giuseppe91messina@gmail.com**
-- 💼 LinkedIn: [Giuseppe Messina](https://linkedin.com/in/giuseppe-messina)
+I also maintain several other projects—feel free to explore:
+
+- **[portfolio-page](https://github.com/giuseppe-messi/portfolio-v2)** · my personal portfolio site
+- **shop-order-system** · an online shop ordering system built with Python
+- **linked-list-sort** · a Python implementation of a linked-list sorting algorithm
+- **huffman-coding** · a Python implementation of the Huffman compression algorithm
+- **covid19-info-hub** · a full-stack COVID-19 info hub built with PHP & JavaScript
+
+*(See each repo’s topics for more details.)*
+
+---
+
+### 📫 Let’s connect
+
+* 📧 **Email:** [giuseppe91messina@gmail.com](mailto:giuseppe91messina@gmail.com)
+
+* 🔗 **LinkedIn:** [linkedin.com/in/giuseppe-messina](https://www.linkedin.com/in/giuseppe-messina/)
+
+I’m always open to discussing new projects, collaborations, or roles where I can bring my React expertise to help deliver exceptional digital experiences for your users.
