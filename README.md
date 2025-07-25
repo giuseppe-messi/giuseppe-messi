@@ -75,8 +75,7 @@ Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) 
    - **Mocked Data Fetching & API Integration**: mocking + optimistic UI
    - **Testing**: Jest & React Testing Library
    - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
-
-    ↳ [packages/examples/todo-playground](packages/examples/todo-playground)
+↳ [packages/examples/todo-playground](packages/examples/todo-playground)
 
 3. **Auth-Guarded Docs & SSR**
    - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
