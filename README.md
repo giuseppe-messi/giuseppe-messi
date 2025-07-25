@@ -14,7 +14,8 @@ I also hold an MSc in Computer Science with a focus on Software Engineering, whi
 I’ve organized my work into two main areas on my GitHub:
 
 1. **[React Lab Mono](#react-lab-mono)** – a comprehensive showcase of my React expertise split into a [Design System](#design-system) and [Examples & Micro-demos](#examples-demos).
-2. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio), various Python algorithm implementations, and a personal full-stack COVID-19 info hub website, among others.
+   
+3. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio), various Python algorithm implementations, and a personal full-stack COVID-19 info hub website, among others.
 
 Feel free to jump to any section using the links above!
 
@@ -66,8 +67,8 @@ Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/
 ### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps)
 
 Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps), you'll find:
-    - A `docs/` directory containing the Storybook project.
-    - A set of focused example apps, each highlighting specific core skills.
+- A `docs/` directory containing the Storybook project.
+- A set of focused example apps, each highlighting specific core skills.
 
 1. **State & API Playground**
    - **State Management**: Zustand or Redux Toolkit + `useReducer`
