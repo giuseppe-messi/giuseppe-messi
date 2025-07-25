@@ -70,6 +70,8 @@ Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) 
 - A `docs/` directory containing the Storybook project.
 - A set of focused example apps, each highlighting specific core skills.
 
+Every project is backed by unit and integration tests using Jest and React Testing Library. I also automate linting, formatting, and type-checking using ESLint and TypeScript configuration files.
+
 1. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)**
    - **State Management**: Zustand
    - **Mocked Data Fetching & API Integration**: mocking + optimistic UI
