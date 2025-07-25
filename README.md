@@ -32,7 +32,7 @@ I built one **monorepo** to **showcase my core React skills** in action by creat
 <a id="design-system"></a>
 ### 🎨 [Design System](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
 
-Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui) you'll find a self-contained, production-ready React component library demonstrating:
+Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui) you'll find a self-contained, production-ready React component library, [published on npm](https://www.npmjs.com/package/@react-lab-mono/ui) demonstrating:
 
 - **Core TypeScript/JavaScript & Web Fundamentals**  
   ES6+ syntax (arrow functions, destructuring, spread/rest, template literals), modules (`import`/`export`), event handling & DOM APIs, asynchronous patterns (Promises, async/await, Fetch), Browser APIs (LocalStorage, SessionStorage, WebSockets), error handling, and debounce/throttle utilities.
