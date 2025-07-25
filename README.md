@@ -71,10 +71,10 @@ Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) 
 - A set of focused example apps, each highlighting specific core skills.
 
 1. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)**
-   - **State Management**: Zustand
-   - **Mocked Data Fetching & API Integration**: mocking + optimistic UI
-   - **Testing**: Jest & React Testing Library
-   - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
+- **State Management**: Zustand
+- **Mocked Data Fetching & API Integration**: mocking + optimistic UI
+- **Testing**: Jest & React Testing Library
+- **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
      ↳ [packages/examples/todo-playground](packages/examples/todo-playground)
 
 3. **Auth-Guarded Docs & SSR**
