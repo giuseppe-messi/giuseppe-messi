@@ -78,29 +78,24 @@ Every project is backed by unit and integration tests using Jest and React Testi
    - **Testing**: Jest & React Testing Library
    - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
 
-   ↳ [react-lab-mono/tree/main/packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
-
-3. **Auth-Guarded Docs & SSR**
+3. **Auth-Guarded Docs & SSR** ( ❌ Coming Soon — not yet implemented)
    - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
    - **Data Fetching & API Integration**: SSG for public docs, SSR for protected pages
    - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
    - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
-   ↳ [packages/examples/auth-docs](packages/examples/auth-docs)
-
+   
 4. **PWA Cache Demo**
    - **Core JS/Web Fundamentals**: Service Workers, IndexedDB via localForage, Web APIs
    - **Data Fetching & API Integration**: fetch + runtime caching (Workbox)
    - **Accessibility**: offline state banner, progressive enhancement
    - **Build Tools & Workflow**: Vite PWA template, manifest.json
-   ↳ [packages/examples/pwa-demo](packages/examples/pwa-demo)
-
+   
 5. **Cross-Platform UI**
    - **React Fundamentals** & **Type Safety**: JSX, props & state, TypeScript
    - **Styling & Theming**: shared design-system tokens across web & native
    - **Component Architecture**: code-sharing via React Native Web
    - **Build Tools & Workflow**: Metro/RNW bundling, platform-agnostic styling
-   ↳ [react-skillset/packages/examples](react-skillset/packages/examples)
-
+   
 ---
 
 <a id="other-repos"></a>
