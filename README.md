@@ -84,13 +84,13 @@ Every project is backed by unit and integration tests using Jest and React Testi
    - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
    - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
    
-4. **PWA Cache Demo**
+4. **PWA Cache Demo** ( ❌ Coming Soon — not yet implemented)
    - **Core JS/Web Fundamentals**: Service Workers, IndexedDB via localForage, Web APIs
    - **Data Fetching & API Integration**: fetch + runtime caching (Workbox)
    - **Accessibility**: offline state banner, progressive enhancement
    - **Build Tools & Workflow**: Vite PWA template, manifest.json
    
-5. **Cross-Platform UI**
+5. **Cross-Platform UI** ( ❌ Coming Soon — not yet implemented)
    - **React Fundamentals** & **Type Safety**: JSX, props & state, TypeScript
    - **Styling & Theming**: shared design-system tokens across web & native
    - **Component Architecture**: code-sharing via React Native Web
