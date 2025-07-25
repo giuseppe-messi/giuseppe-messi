@@ -101,13 +101,13 @@ Every project is backed by unit and integration tests using Jest and React Testi
 <a id="other-repos"></a>
 ### 🗃️ Other Repositories
 
-I also maintain several other projects—feel free to explore:
+I also maintain several other projects, feel free to explore:
 
-- **[portfolio-page](https://github.com/giuseppe-messi/portfolio-v2)** · my personal portfolio site
-- **shop-order-system** · an online shop ordering system built with Python
-- **linked-list-sort** · a Python implementation of a linked-list sorting algorithm
-- **huffman-coding** · a Python implementation of the Huffman compression algorithm
-- **covid19-info-hub** · a full-stack COVID-19 info hub built with PHP & JavaScript
+- **[portfolio-page](https://github.com/giuseppe-messi/portfolio)**: my personal portfolio site
+- **shop-order-system**: an online shop ordering system built with Python
+- **linked-list-sort**: a Python implementation of a linked-list sorting algorithm
+- **huffman-coding**: a Python implementation of the Huffman compression algorithm
+- **covid19-info-hub**: a full-stack COVID-19 info hub built with PHP & JavaScript
 
 *(See each repo’s topics for more details.)*
 
@@ -118,5 +118,7 @@ I also maintain several other projects—feel free to explore:
 * 📧 **Email:** [giuseppe91messina@gmail.com](mailto:giuseppe91messina@gmail.com)
 
 * 🔗 **LinkedIn:** [linkedin.com/in/giuseppe-messina](https://www.linkedin.com/in/giuseppe-messina/)
+
+* 🚀 **My website:** [giuseppemessina.dev](https://giuseppemessina.dev/)
 
 I’m always open to discussing new projects, collaborations, or roles where I can bring my React expertise to help deliver exceptional digital experiences for your users.
