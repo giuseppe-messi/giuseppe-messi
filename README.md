@@ -66,32 +66,33 @@ Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/
 <a id="examples-demos"></a>
 ### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps)
 
-Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps), you'll find:
+Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) you'll find:
 - A `docs/` directory containing the Storybook project.
 - A set of focused example apps, each highlighting specific core skills.
 
-1. **State & API Playground**
-   - **State Management**: Zustand or Redux Toolkit + `useReducer`
-   - **Data Fetching & API Integration**: `fetch` + MSW mocking + optimistic UI
-   - **Testing**: Jest & React Testing Library for error/loading states
+1. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)**
+   - **State Management**: Zustand
+   - **Mocked Data Fetching & API Integration**: mocking + optimistic UI
+   - **Testing**: Jest & React Testing Library
    - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
-   ↳ [packages/examples/todo-playground](packages/examples/todo-playground)
 
-2. **Auth-Guarded Docs & SSR**
+    ↳ [packages/examples/todo-playground](packages/examples/todo-playground)
+
+3. **Auth-Guarded Docs & SSR**
    - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
    - **Data Fetching & API Integration**: SSG for public docs, SSR for protected pages
    - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
    - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
    ↳ [packages/examples/auth-docs](packages/examples/auth-docs)
 
-3. **PWA Cache Demo**
+4. **PWA Cache Demo**
    - **Core JS/Web Fundamentals**: Service Workers, IndexedDB via localForage, Web APIs
    - **Data Fetching & API Integration**: fetch + runtime caching (Workbox)
    - **Accessibility**: offline state banner, progressive enhancement
    - **Build Tools & Workflow**: Vite PWA template, manifest.json
    ↳ [packages/examples/pwa-demo](packages/examples/pwa-demo)
 
-4. **Cross-Platform UI**
+5. **Cross-Platform UI**
    - **React Fundamentals** & **Type Safety**: JSX, props & state, TypeScript
    - **Styling & Theming**: shared design-system tokens across web & native
    - **Component Architecture**: code-sharing via React Native Web
