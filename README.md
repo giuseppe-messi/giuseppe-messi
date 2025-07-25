@@ -1,63 +1,60 @@
-# !!! This readme is a work in progress !!!
-
 <h1 align="center">Giuseppe Messina </h1>
 <h3 align="center">Front-End Engineer based in London</h3>
 
 ### 🧑‍💻 About Me
 
-I’m **Giuseppe**, a **Senior Front-End Engineer** with over 8 years of experience building fast, scalable React applications.
+I’m **Giuseppe**, a **Senior Front-End Engineer** with 8+ years of experience building performant, maintainable React applications. I care about clean architecture, thoughtful UI, and working closely with teams to ship great products.
 
-I’ve spent years building real-world apps in React, learning its APIs inside out and understanding why it’s designed the way it is. I love rolling up my sleeves with product teams to turn ideas into polished, accessible UIs.
+I focus on TypeScript, React, and responsive design. I structure components and hooks with clear intent, using self-documenting names, well-scoped props, and precise TypeScript interfaces. I back them up with unit and integration tests using Jest and React Testing Library. I also automate linting, formatting, and type-checking in CI pipelines to ensure every merge is safe and predictable.
 
-I work closely with product teams to ship clean, accessible interfaces with solid functionality and smooth user experiences. 
-
-I structure components and hooks so their intent is obvious (self-documenting names, well-scoped props or TypeScript interfaces), and I back them up with unit and integration tests using Jest and React Testing Library. I automate linting, formatting, and type-checking in CI pipelines so we can merge with confidence.
+I also hold an MSc in Computer Science with a focus on Software Engineering, which sharpened both my theoretical foundation and practical approach to problem-solving.
 
 ### 🚀 What you'll find here
 
 I’ve organized my work into two main areas on my GitHub:
 
-1. **[React Skillset Monorepo](#react-skillset-monorepo)** – a comprehensive showcase of my React expertise split into a [Design System](#design-system) and [Examples & Micro-demos](#examples-demos).
-2. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio-v2), various Python algorithm implementations, and a personal full-stack COVID-19 hub, among others.
+1. **[React Lab Mono](#react-lab-mono)** – a comprehensive showcase of my React expertise split into a [Design System](#design-system) and [Examples & Micro-demos](#examples-demos).
+2. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio), various Python algorithm implementations, and a personal full-stack COVID-19 info hub website, among others.
 
 Feel free to jump to any section using the links above!
 
 ---
 
-<a id="react-skillset-monorepo"></a>
-### 🛠️ Featured: [My React Skillset Monorepo](https://github.com/giuseppe-messi/react-skillset)
+<a id="react-lab-mono"></a>
+### 🛠️ [React Lab Mono](https://github.com/giuseppe-messi/react-lab-mono)
 
-I built one **monorepo** to **showcase my core React skills** in action by creating a full-featured **Design System** and a set of **Examples & Micro-demos**, each targeting specific areas from my checklist (Core JavaScript & Web Fundamentals, React Fundamentals, State Management, Routing & Navigation, Styling & Theming, Type Safety, Data Fetching & API Integration, Forms & Validation, Testing, Build Tools & Workflow, Accessibility, Performance Optimization, Documentation & Design Systems, Deployment & CI/CD, and more).
+I built one **monorepo** to **showcase my core React skills** in action by creating a full-featured **Design System** and a set of **Examples & Micro-demos**, each targeting specific areas from my checklist (Core TypeScript/JavaScript & Web Fundamentals, React Fundamentals, State Management, Routing & Navigation, Styling & Theming, Type Safety, Data Fetching & API Integration, Forms & Validation, Testing, Build Tools & Workflow, Accessibility, Performance Optimization, Documentation & Design Systems, Deployment & CI/CD, and more).
 
-This repo is powered by **Turborepo** (with Yarn Workspaces), fully typed with **TypeScript**, and kept consistent with **ESLint** & **Prettier**.
+> ⚠️ **Note:** This is an evolving project that I update when time allows, because, well, life happens. Some sections may be in progress or marked with notes if they haven’t been started or fully completed yet. It's more like a living portfolio than a static snapshot.
+
 
 <a id="design-system"></a>
 ### 🎨 [Design System](https://github.com/giuseppe-messi/react-skillset/packages/design-system)
 A self-contained, production-ready React component library demonstrating:
 
-- **Core JavaScript & Web Fundamentals**  
+- **Core TypeScript/JavaScript & Web Fundamentals**  
   ES6+ syntax (arrow functions, destructuring, spread/rest, template literals), modules (`import`/`export`), event handling & DOM APIs, asynchronous patterns (Promises, async/await, Fetch), Browser APIs (LocalStorage, SessionStorage, WebSockets), error handling, and debounce/throttle utilities.
 
 - **React Fundamentals**  
-  JSX & its transforms, function vs. class components, props & state, lifecycle phases (mount/update/unmount), built-in hooks (`useState`, `useEffect`, `useRef`, `useLayoutEffect`, `useMemo`, `useCallback`, `useContext`, `useReducer`), custom hooks, Context API, error boundaries, and advanced patterns (render-props, compound components).
+  JSX & its transforms, function components, props & state, lifecycle phases (mount/update/unmount), built-in hooks (`useState`, `useEffect`, `useRef`, `useLayoutEffect`, `useMemo`, `useCallback`, `useContext`, `useReducer`), custom hooks, Context API, error boundaries, and advanced patterns (render-props, compound components).
 
 - **Styling & Theming**  
-  Design tokens (centralized variables for colors, typography, spacing), CSS-in-JS with **styled-components** or **Emotion**, CSS Modules for scoped styles, responsive design techniques, and a theme­provider architecture for light/dark modes.
+  Design tokens (centralized variables for colors, typography, spacing), CSS Modules for scoped styles, responsive design techniques, and a theme­provider architecture for light/dark modes.
 
 - **Type Safety**  
   Full **TypeScript** setup with strict `tsconfig` rules, typed React props & state, utility & mapped types.
 
 - **Accessibility (a11y)**  
-  Semantic HTML, ARIA roles & attributes, keyboard navigation & focus management, high-contrast themes, screen-reader testing, and automated audits with **axe-core** or **Lighthouse**.
+  Semantic HTML, ARIA roles & attributes, keyboard navigation & focus management, high-contrast themes, screen-reader testing, and automated audits with **jest-axe** and **Lighthouse**.
 
 - **Performance Optimization**  
-  Code-splitting with `React.lazy` & `Suspense`, route-based chunking, memoization (`React.memo`, `useMemo`, `useCallback`), list virtualization (react-window), image lazy-loading, bundle-size budgets enforced via plugins (e.g. `rollup-plugin-filesize`, `webpack-bundle-analyzer`), and profiling with React DevTools & Lighthouse CI.
+  Code-splitting with `React.lazy` & `Suspense`, route-based chunking, memoization (`React.memo`, `useMemo`, `useCallback`), list virtualization (react-window), image lazy-loading, bundle-size budgets enforced via plugins (e.g. `rollup-plugin-visualizer`, `vite-bundle-analyzer`, `vite-plugin-inspect`), and profiling with React DevTools & Lighthouse CI.
 
 - **Testing**  
-  Unit tests (Jest + React Testing Library), visual regression with **Chromatic** (Storybook integration), end-to-end smoke tests, and network mocking via MSW.
+  Unit tests (Jest + React Testing Library), end-to-end smoke tests for critical flows, and a focus on testable, accessible components through Storybook.
 
 - **Documentation & Design Systems**  
-  Interactive component catalog with **Storybook**, MDX (Markdown + JSX) for rich examples & documentation, autogenerated prop tables & controls via the ArgsTable addon, and living style guides.
+  Interactive component catalog with **Storybook**, MDX (Markdown + JSX) for rich examples & documentation.
 
 - **Build Tools & Workflow**  
   Library bundling with **Vite**, Turborepo pipelines for caching & parallel builds, semantic-release for automated versioning & npm publishing, and CI/CD pipelines on **GitHub Actions** (lint, type-check, test, build, publish).
