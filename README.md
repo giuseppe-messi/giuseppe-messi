@@ -29,8 +29,9 @@ I built one **monorepo** to **showcase my core React skills** in action by creat
 
 
 <a id="design-system"></a>
-### 🎨 [Design System](https://github.com/giuseppe-messi/react-skillset/packages/design-system)
-A self-contained, production-ready React component library demonstrating:
+### 🎨 [Design System](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
+
+Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui) you'll find a self-contained, production-ready React component library demonstrating:
 
 - **Core TypeScript/JavaScript & Web Fundamentals**  
   ES6+ syntax (arrow functions, destructuring, spread/rest, template literals), modules (`import`/`export`), event handling & DOM APIs, asynchronous patterns (Promises, async/await, Fetch), Browser APIs (LocalStorage, SessionStorage, WebSockets), error handling, and debounce/throttle utilities.
@@ -59,25 +60,28 @@ A self-contained, production-ready React component library demonstrating:
 - **Build Tools & Workflow**  
   Library bundling with **Vite**, Turborepo pipelines for caching & parallel builds, semantic-release for automated versioning & npm publishing, and CI/CD pipelines on **GitHub Actions** (lint, type-check, test, build, publish).
 
-↳ [react-skillset/packages/design-system](react-skillset/packages/design-system)
+↳ [react-lab-mono/tree/main/packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
 
 <a id="examples-demos"></a>
-### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-skillset/packages/examples)
-Four ~200-LOC samples, each covering additional core skills:
+### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps)
 
-1. **Auth-Guarded Docs & SSR**
-   - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
-   - **Data Fetching & API Integration**: SSG for public docs, SSR for protected pages
-   - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
-   - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
-   ↳ [packages/examples/auth-docs](packages/examples/auth-docs)
+Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps), you'll find:
+    - A `docs/` directory containing the Storybook project.
+    - A set of focused example apps, each highlighting specific core skills.
 
-2. **State & API Playground**
+1. **State & API Playground**
    - **State Management**: Zustand or Redux Toolkit + `useReducer`
    - **Data Fetching & API Integration**: `fetch` + MSW mocking + optimistic UI
    - **Testing**: Jest & React Testing Library for error/loading states
    - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
    ↳ [packages/examples/todo-playground](packages/examples/todo-playground)
+
+2. **Auth-Guarded Docs & SSR**
+   - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
+   - **Data Fetching & API Integration**: SSG for public docs, SSR for protected pages
+   - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
+   - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
+   ↳ [packages/examples/auth-docs](packages/examples/auth-docs)
 
 3. **PWA Cache Demo**
    - **Core JS/Web Fundamentals**: Service Workers, IndexedDB via localForage, Web APIs
