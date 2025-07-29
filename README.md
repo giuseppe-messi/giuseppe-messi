@@ -67,7 +67,7 @@ Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/
 ### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps)
 
 Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) you'll find:
-- A `docs/` directory containing the Storybook project.
+- A `docs/` directory containing the Storybook project. ( ❌ Coming Soon )
 - A set of focused example apps, each highlighting specific core skills.
 
 Every project is backed by unit and integration tests using Jest and React Testing Library. I also automate linting, formatting, and type-checking using ESLint and TypeScript configuration files.
