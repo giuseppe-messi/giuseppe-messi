@@ -67,12 +67,12 @@ Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/
 ### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps)
 
 Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) you'll find:
-- A `docs/` directory containing the Storybook project. ( ❌ Coming Soon )
+- A `docs/` directory containing the Storybook project. ( 🧪 Work In Progress )
 - A set of focused example apps, each highlighting specific core skills.
 
 Every project is backed by unit and integration tests using Jest and React Testing Library. I also automate linting, formatting, and type-checking using ESLint and TypeScript configuration files.
 
-1. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)**
+1. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)** (✅ Done)
    - **State Management**: Zustand
    - **Mocked Data Fetching & API Integration**: mocking + optimistic UI
    - **Testing**: Jest & React Testing Library
