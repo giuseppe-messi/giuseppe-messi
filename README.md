@@ -14,22 +14,22 @@ I also hold an MSc in Computer Science with a focus on Software Engineering, whi
 I’ve organized my work into two main areas on my GitHub:
 
 1. **[React Lab Mono](#react-lab-mono)** – a comprehensive showcase of my React expertise split into a [Design System](#design-system) and [Examples & Micro-demos](#examples-demos).
-   
-3. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio), various Python algorithm implementations, and a personal full-stack COVID-19 info hub website, among others.
+2. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio), various Python algorithm implementations, and a personal full-stack COVID-19 info hub website, among others.
 
 Feel free to jump to any section using the links above!
 
 ---
 
 <a id="react-lab-mono"></a>
+
 ### 🛠️ [React Lab Mono](https://github.com/giuseppe-messi/react-lab-mono)
 
 I built one **monorepo** to **showcase my core React skills** in action by creating a full-featured **Design System** and a set of **Examples & Micro-demos**, each targeting specific areas from my checklist (Core TypeScript/JavaScript & Web Fundamentals, React Fundamentals, State Management, Routing & Navigation, Styling & Theming, Type Safety, Data Fetching & API Integration, Forms & Validation, Testing, Build Tools & Workflow, Accessibility, Performance Optimization, Documentation & Design Systems, Deployment & CI/CD, and more).
 
 > ⚠️ **Note:** This is an evolving project that I update when time allows, because, well, life happens. Some sections may be in progress or marked with notes if they haven’t been started or fully completed yet. It's more like a living portfolio than a static snapshot.
 
-
 <a id="design-system"></a>
+
 ### 🎨 [Design System](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
 
 Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui) you'll find a self-contained, production-ready React component library, [published on npm](https://www.npmjs.com/package/@react-lab-mono/ui) demonstrating:
@@ -64,15 +64,23 @@ Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/
 ↳ [react-lab-mono/tree/main/packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
 
 <a id="examples-demos"></a>
+
 ### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps)
 
 Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) you'll find:
-- A `docs/` directory containing the Storybook project. ( 🧪 Work In Progress )
+
+- A `docs/` directory containing the Storybook project showcasing the design system ([packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui) ) components.
 - A set of focused example apps, each highlighting specific core skills.
 
 Every project is backed by unit and integration tests using Jest and React Testing Library. I also automate linting, formatting, and type-checking using ESLint and TypeScript configuration files.
 
-1. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)** (✅ Done)
+1. **[Storybook](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/docs)** ( 🧪 Work In Progress )
+
+   - **Checkout the repo**: [apps/docs](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/docs)
+   - **Live demo**: [Packages UI Storybook](https://tiny-ganache-0201ee.netlify.app/?path=/docs/button--docs/)
+
+2. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)** ( ✅ Done )
+
    - **State Management**: Zustand
    - **Mocked Data Fetching & API Integration**: mocking + optimistic UI
    - **Testing**: Jest & React Testing Library
@@ -85,22 +93,21 @@ Every project is backed by unit and integration tests using Jest and React Testi
    - **Data Fetching & API Integration**: SSG for public docs, SSR for protected pages
    - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
    - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
-   
 4. **PWA Cache Demo** ( ❌ Coming Soon )
    - **Core JS/Web Fundamentals**: Service Workers, IndexedDB via localForage, Web APIs
    - **Data Fetching & API Integration**: fetch + runtime caching (Workbox)
    - **Accessibility**: offline state banner, progressive enhancement
    - **Build Tools & Workflow**: Vite PWA template, manifest.json
-   
 5. **Cross-Platform UI** ( ❌ Coming Soon )
    - **React Fundamentals** & **Type Safety**: JSX, props & state, TypeScript
    - **Styling & Theming**: shared design-system tokens across web & native
    - **Component Architecture**: code-sharing via React Native Web
    - **Build Tools & Workflow**: Metro/RNW bundling, platform-agnostic styling
-   
+
 ---
 
 <a id="other-repos"></a>
+
 ### 🗃️ Other Repositories
 
 I also maintain several other projects, feel free to explore:
@@ -111,16 +118,16 @@ I also maintain several other projects, feel free to explore:
 - **huffman-coding**: a Python implementation of the Huffman compression algorithm
 - **covid19-info-hub**: a full-stack COVID-19 info hub built with PHP & JavaScript
 
-*(See each repo’s topics for more details.)*
+_(See each repo’s topics for more details.)_
 
 ---
 
 ### 📫 Let’s connect
 
-* 📧 **Email:** [giuseppe91messina@gmail.com](mailto:giuseppe91messina@gmail.com)
+- 📧 **Email:** [giuseppe91messina@gmail.com](mailto:giuseppe91messina@gmail.com)
 
-* 🔗 **LinkedIn:** [linkedin.com/in/giuseppe-messina](https://www.linkedin.com/in/giuseppe-messina/)
+- 🔗 **LinkedIn:** [linkedin.com/in/giuseppe-messina](https://www.linkedin.com/in/giuseppe-messina/)
 
-* 🚀 **My website:** [giuseppemessina.dev](https://giuseppemessina.dev/)
+- 🚀 **My website:** [giuseppemessina.dev](https://giuseppemessina.dev/)
 
 I’m always open to discussing new projects, collaborations, or roles where I can bring my React expertise to help deliver exceptional digital experiences for your users.
