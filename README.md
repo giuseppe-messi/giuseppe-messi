@@ -77,7 +77,7 @@ Every project is backed by unit and integration tests using Jest and React Testi
 1. **[Storybook](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/docs)** ( 🧪 Work In Progress )
 
    - **Checkout the repo**: [apps/docs](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/docs)
-   - **Live demo**: [Packages UI Storybook](https://tiny-ganache-0201ee.netlify.app/?path=/docs/button--docs/)
+   - **Live demo**: [Packages UI Storybook](https://storybook-package-ui.netlify.app/?path=/docs/button--docs)
 
 2. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)** ( ✅ Done )
 
@@ -87,7 +87,7 @@ Every project is backed by unit and integration tests using Jest and React Testi
    - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
    - **Test coverage**: 100%
    - **Checkout the repo**: [apps/optimistic-ui-sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)
-   - **Live demo**: [Optimistic UI Sandbox](https://startling-shortbread-4b5781.netlify.app/)
+   - **Live demo**: [Optimistic UI Sandbox](https://optimistic-ui-sandbox.netlify.app/)
 
 3. **Auth-Guarded Docs & SSR** ( ❌ Coming Soon )
    - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
