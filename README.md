@@ -5,9 +5,9 @@
 
 I’m **Giuseppe**, a **Senior Front-End Engineer** with 8+ years of experience building performant, maintainable React applications. I care about clean architecture, thoughtful UI, and working closely with teams to ship great products.
 
-I focus on TypeScript, React, and responsive design. I structure components and hooks with clear intent, using self-documenting names, well-scoped props, and precise TypeScript interfaces. I back them up with unit and integration tests using Jest and React Testing Library. I also automate linting, formatting, and type-checking in CI pipelines to ensure every merge is safe and predictable.
+I focus on TypeScript, React, responsive design, and accessibility. I structure components and hooks with clear intent, using self-documenting names, well-scoped props, and precise TypeScript interfaces. I back them up with unit and integration tests using Jest and React Testing Library. I prioritize accessibility standards and optimize applications for performance, ensuring fast, inclusive, and reliable user experiences. To keep code quality consistent, I automate linting, formatting, and type-checking in CI pipelines so every merge is safe and predictable.
 
-I also hold an MSc in Computer Science with a focus on Software Engineering, which sharpened both my theoretical foundation and practical approach to problem-solving.
+I also hold an MSc in Computer Science with a focus on Software Engineering, which sharpened both my theoretical foundation and practical approach to problem-solving. While my professional expertise lies in front-end development, I also have a solid grounding in backend engineering. Through academic training and personal full-stack projects, I’ve gained hands-on experience with Node.js, Prisma, PostgreSQL, and more.
 
 ### 🚀 What you'll find here
 
@@ -89,11 +89,15 @@ Every project is backed by unit and integration tests using Jest and React Testi
    - **Checkout the repo**: [apps/optimistic-ui-sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)
    - **Live demo**: [Optimistic UI Sandbox](https://optimistic-ui-sandbox.netlify.app/)
 
-3. **Auth-Guarded Docs & SSR** ( ❌ Coming Soon )
-   - **Routing & Navigation**: nested MDX routes, JWT-based admin guards
-   - **Data Fetching & API Integration**: SSG for public docs, SSR for protected pages
-   - **Type Safety** & **React Fundamentals**: functional components, hooks, strict TS
-   - **Build Tools & Workflow**: Next.js configuration, SSR/SSG pipeline
+3. **Auth-Guarded Hub** ( 🧪 Work In Progress )
+
+   - **Full-Stack Setup**: React (Vite) frontend + backend API built with Netlify Functions and Prisma/Postgres
+   - **Database & Schema**: Prisma migrations managing a Postgres schema, deployed automatically on Netlify
+   - **Routing & Guards**: React Router with protected routes, admin access enforced via session/JWT guards
+   - **Type Safety & Best Practices**: Strict TypeScript across frontend & backend, context-based auth provider, reusable hooks
+   - **Checkout the repo**: [apps/auth-guarded-hub/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/auth-guarded-hub)
+   - **Live demo**: [Auth-Guarded Hub](https://auth-guarded-hub.netlify.app/)
+
 4. **PWA Cache Demo** ( ❌ Coming Soon )
    - **Core JS/Web Fundamentals**: Service Workers, IndexedDB via localForage, Web APIs
    - **Data Fetching & API Integration**: fetch + runtime caching (Workbox)
