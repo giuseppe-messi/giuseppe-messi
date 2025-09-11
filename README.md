@@ -104,6 +104,8 @@ Every project is backed by unit and integration tests using Jest and React Testi
 
 6. **Probably a mobile App created with React Native** ( ❌ Coming Soon )
 
+7. **Probably something about SSR (Server-Side Rendering) built with Next.js** ( ❌ Coming Soon )
+
 ---
 
 <a id="other-repos"></a>
