@@ -89,7 +89,7 @@ Every project is backed by unit and integration tests using Jest and React Testi
    - **Checkout the repo**: [apps/optimistic-ui-sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)
    - **Live demo**: [Optimistic UI Sandbox](https://optimistic-ui-sandbox.netlify.app/)
 
-3. **[Auth-Guarded Hub](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/auth-guarded-hub)** ( 🧪 Work In Progress )
+3. **[Auth-Guarded Hub](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/auth-guarded-hub)** ( ✅ Done - pretty much, just a general code clean up and testing missing )
 
    - **Full-Stack Setup**: React (Vite) frontend + backend API built with Netlify Functions and Prisma/Postgres
    - **Database & Schema**: Prisma migrations managing a Postgres schema, deployed automatically on Netlify
