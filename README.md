@@ -15,6 +15,7 @@ I also hold an MSc in Computer Science with a focus on Software Engineering, whi
 
 > ⚠️ **Note:** My Github is an evolving project that I update when time allows, because, well, life happens. Some sections may be in progress or marked with notes if they haven’t been started or fully completed yet. It's more like a living portfolio than a static snapshot.
 
+---
 
 ### 🚀 Cool Projects
 
