@@ -1,118 +1,42 @@
-<h1 align="center">Giuseppe Messina </h1>
-<h3 align="center">Front-End Engineer based in London</h3>
+<h1 align="center">Giuseppe Messina</h1>
+<h3 align="center">Full-Stack Typescript Developer <br> Frontend-leaning <br> <small>based in London</small></h3>
 
 ### 🧑‍💻 About Me
 
-I’m **Giuseppe**, a **Senior Front-End Engineer** with 8+ years of experience building performant, maintainable React applications. I care about clean architecture, thoughtful UI, and working closely with teams to ship great products.
+I’m **Giuseppe**, a **Full-stack JavaScript developer** with 8+ years on the frontend and hands-on backend experience from
+personal projects. I build accessible, fast, and maintainable UIs in React and TypeScript. Commercial background is predominantly frontend, with backend exposure through self-built Node, Express, MongoDB and PostgreSQL projects.
+
+For a clear sense of my work, review my GitHub page, which is an active, in-progress portfolio, reflecting the depth of my skills and my drive to keep experimenting, improving, and building.
 
 I focus on TypeScript, React, responsive design, and accessibility. I structure components and hooks with clear intent, using self-documenting names, well-scoped props, and precise TypeScript interfaces. I back them up with unit and integration tests using Jest and React Testing Library. I prioritize accessibility standards and optimize applications for performance, ensuring fast, inclusive, and reliable user experiences. To keep code quality consistent, I automate linting, formatting, and type-checking in CI pipelines so every merge is safe and predictable.
 
-I also hold an MSc in Computer Science with a focus on Software Engineering, which sharpened both my theoretical foundation and practical approach to problem-solving. While my professional expertise lies in front-end development, I also have a solid grounding in backend engineering. Through academic training and personal full-stack projects, I’ve gained hands-on experience with Node.js, Prisma, PostgreSQL, and more.
+I also hold an MSc in Computer Science with a focus on Software Engineering, which sharpened both my theoretical foundation and practical approach to problem-solving. While my professional expertise lies in front-end development, I also have a solid grounding in backend engineering through academic training and personal full-stack projects.
 
-### 🚀 What you'll find here
+---
 
-I’ve organized my work into two main areas on my GitHub:
+> ⚠️ **Note:** My Github is an evolving project that I update when time allows, because, well, life happens. Some sections may be in progress or marked with notes if they haven’t been started or fully completed yet. It's more like a living portfolio than a static snapshot.
 
-1. **[React Lab Mono](#react-lab-mono)** – a comprehensive showcase of my React expertise split into a [Design System](#design-system) and [Examples & Micro-demos](#examples-demos).
-2. **[Other Repositories](#other-repos)** – standalone projects like my [portfolio page](https://github.com/giuseppe-messi/portfolio), various Python algorithm implementations, and a personal full-stack COVID-19 info hub website, among others.
+---
+
+### 🚀 Cool Projects
+
+Some of the projects I’m most proud of are the ones that best reflect my approach to building real-world, production-ready applications.
+
+These include:
+
+- **[React Lab Mono](https://github.com/giuseppe-messi/react-lab-mono)**: a monorepo containing a React **Design System** and its **Storybook** documentation site.
+
+- **[Auth-Guarded Hub](https://github.com/giuseppe-messi/auth-guarded-hub)**: a full-stack app with protected routes, authentication, and a Netlify + Prisma backend.
+
+- **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/optimistic-ui-sandbox)**: a frontend project focused on state management, mocked APIs, and optimistic UI updates.
 
 Feel free to jump to any section using the links above!
 
 ---
 
-<a id="react-lab-mono"></a>
-
-### 🛠️ [React Lab Mono](https://github.com/giuseppe-messi/react-lab-mono)
-
-I built one **monorepo** to **showcase my core React skills** in action by creating a full-featured **Design System** and a set of **Examples & Micro-demos**, each targeting specific areas from my checklist (Core TypeScript/JavaScript & Web Fundamentals, React Fundamentals, State Management, Routing & Navigation, Styling & Theming, Type Safety, Data Fetching & API Integration, Forms & Validation, Testing, Build Tools & Workflow, Accessibility, Performance Optimization, Documentation & Design Systems, Deployment & CI/CD, and more).
-
-> ⚠️ **Note:** This is an evolving project that I update when time allows, because, well, life happens. Some sections may be in progress or marked with notes if they haven’t been started or fully completed yet. It's more like a living portfolio than a static snapshot.
-
-<a id="design-system"></a>
-
-### 🎨 [Design System](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
-
-Inside [packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui) you'll find a self-contained, production-ready React component library, [published on npm](https://www.npmjs.com/package/@react-lab-mono/ui) demonstrating:
-
-- **Core TypeScript/JavaScript & Web Fundamentals**  
-  ES6+ syntax (arrow functions, destructuring, spread/rest, template literals), modules (`import`/`export`), event handling & DOM APIs, asynchronous patterns (Promises, async/await, Fetch), Browser APIs (LocalStorage, SessionStorage, WebSockets), error handling, and debounce/throttle utilities.
-
-- **React Fundamentals**  
-  JSX & its transforms, function components, props & state, lifecycle phases (mount/update/unmount), built-in hooks (`useState`, `useEffect`, `useRef`, `useLayoutEffect`, `useMemo`, `useCallback`, `useContext`, `useReducer`), custom hooks, Context API, error boundaries, and advanced patterns (render-props, compound components).
-
-- **Styling & Theming**  
-  Design tokens (centralized variables for colors, typography, spacing), CSS Modules for scoped styles, responsive design techniques, and a theme­provider architecture for light/dark modes.
-
-- **Type Safety**  
-  Full **TypeScript** setup with strict `tsconfig` rules, typed React props & state, utility & mapped types.
-
-- **Accessibility (a11y)**  
-  Semantic HTML, ARIA roles & attributes, keyboard navigation & focus management, high-contrast themes, screen-reader testing, and automated audits with **jest-axe** and **Lighthouse**.
-
-- **Performance Optimization**  
-  Code-splitting with `React.lazy` & `Suspense`, route-based chunking, memoization (`React.memo`, `useMemo`, `useCallback`), list virtualization (react-window), image lazy-loading, bundle-size budgets enforced via plugins (e.g. `rollup-plugin-visualizer`, `vite-bundle-analyzer`, `vite-plugin-inspect`), and profiling with React DevTools & Lighthouse CI.
-
-- **Testing**  
-  Unit tests (Jest + React Testing Library), end-to-end smoke tests for critical flows, and a focus on testable, accessible components through Storybook.
-
-- **Documentation & Design Systems**  
-  Interactive component catalog with **Storybook**, MDX (Markdown + JSX) for rich examples & documentation.
-
-- **Build Tools & Workflow**  
-  Library bundling with **Vite**, Turborepo pipelines for caching & parallel builds, semantic-release for automated versioning & npm publishing, and CI/CD pipelines on **GitHub Actions** (lint, type-check, test, build, publish).
-
-↳ [react-lab-mono/tree/main/packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui)
-
-<a id="examples-demos"></a>
-
-### 🧩 [Examples & Micro-demos](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps)
-
-Inside [apps/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps) you'll find:
-
-- A `docs/` directory containing the Storybook project showcasing the design system ([packages/ui](https://github.com/giuseppe-messi/react-lab-mono/tree/main/packages/ui) ) components.
-- A set of focused example apps, each highlighting specific core skills.
-
-Every project is backed by unit and integration tests using Jest and React Testing Library. I also automate linting, formatting, and type-checking using ESLint and TypeScript configuration files.
-
-1. **[Storybook](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/docs)** ( 🧪 Work In Progress )
-
-   - **Checkout the repo**: [apps/docs](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/docs)
-   - **Live demo**: [Packages UI Storybook](https://storybook-package-ui.netlify.app/?path=/docs/button--docs)
-
-2. **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)** ( ✅ Done )
-
-   - **State Management**: Zustand
-   - **Mocked Data Fetching & API Integration**: mocking + optimistic UI
-   - **Testing**: Jest & React Testing Library
-   - **Core JavaScript & Web Fundamentals**: async/await, Promises, modules
-   - **Test coverage**: 100%
-   - **Checkout the repo**: [apps/optimistic-ui-sandbox](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/optimistic-ui-sandbox)
-   - **Live demo**: [Optimistic UI Sandbox](https://optimistic-ui-sandbox.netlify.app/)
-
-3. **[Auth-Guarded Hub](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/auth-guarded-hub)** ( ✅ Done - pretty much, just a general code clean up and testing missing )
-
-   - **Full-Stack Setup**: React (Vite) frontend + backend API built with Netlify Functions and Prisma/Postgres
-   - **Database & Schema**: Prisma migrations managing a Postgres schema, deployed automatically on Netlify
-   - **Routing & Guards**: React Router with protected routes, admin access enforced via session/JWT guards
-   - **Type Safety & Best Practices**: Strict TypeScript across frontend & backend, context-based auth provider, reusable hooks
-   - **Checkout the repo**: [apps/auth-guarded-hub/](https://github.com/giuseppe-messi/react-lab-mono/tree/main/apps/auth-guarded-hub)
-   - **Live demo**: [Auth-Guarded Hub](https://auth-guarded-hub.netlify.app/)
-
-4. **Probably something with WebSocket for real-time comunication** ( ❌ Coming Soon )
-
-5. **Probably something related to fetching heavy API's loads** ( ❌ Coming Soon )
-
-6. **Probably a mobile App created with React Native** ( ❌ Coming Soon )
-
-7. **Probably something about SSR (Server-Side Rendering) built with Next.js** ( ❌ Coming Soon )
-
----
-
-<a id="other-repos"></a>
-
 ### 🗃️ Other Repositories
 
-I also maintain several other projects, feel free to explore:
+I also maintain several smaller projects and experiments:
 
 - **[portfolio-page](https://github.com/giuseppe-messi/portfolio)**: my personal portfolio site
 - **shop-order-system**: an online shop ordering system built with Python
@@ -120,16 +44,12 @@ I also maintain several other projects, feel free to explore:
 - **huffman-coding**: a Python implementation of the Huffman compression algorithm
 - **covid19-info-hub**: a full-stack COVID-19 info hub built with PHP & JavaScript
 
-_(See each repo’s topics for more details.)_
-
 ---
 
-### 📫 Let’s connect
+### 📫 Let’s Connect
 
 - 📧 **Email:** [giuseppe91messina@gmail.com](mailto:giuseppe91messina@gmail.com)
-
 - 🔗 **LinkedIn:** [linkedin.com/in/giuseppe-messina](https://www.linkedin.com/in/giuseppe-messina/)
+- 🚀 **Website:** [giuseppemessina.dev](https://giuseppemessina.dev/)
 
-- 🚀 **My website:** [giuseppemessina.dev](https://giuseppemessina.dev/)
-
-I’m always open to discussing new projects, collaborations, or roles where I can bring my React expertise to help deliver exceptional digital experiences for your users.
+I’m always open to discussing new projects, collaborations, or roles where I can use my React expertise to build scalable, accessible, and high-quality applications.
