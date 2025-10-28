@@ -29,11 +29,11 @@ These include:
 
 - **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/optimistic-ui-sandbox)**: a frontend project focused on state management, mocked APIs, and optimistic UI updates.
 
-Feel free to jump to any section using the links above!
+Feel free to jump to any repos using the links above!
 
 ---
 
-### 🗃️ Other Repositories
+### 🗃️ Other Repos
 
 I also maintain several smaller projects and experiments:
 
