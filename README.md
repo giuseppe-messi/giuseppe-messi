@@ -1,5 +1,5 @@
 <h1 align="center">Giuseppe Messina</h1>
-<h3 align="center">Full-Stack Typescript Developer <br> Frontend-leaning <br> <small>based in London</small></h3>
+<h3 align="center">Full-Stack Typescript Developer <br> Frontend-leaning </h3>
 
 ### 🧑‍💻 About Me
 
