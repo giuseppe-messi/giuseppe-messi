@@ -12,11 +12,9 @@ I focus on TypeScript, React, responsive design, and accessibility. I structure 
 
 I also hold an MSc in Computer Science with a focus on Software Engineering, which sharpened both my theoretical foundation and practical approach to problem-solving. While my professional expertise lies in front-end development, I also have a solid grounding in backend engineering through academic training and personal full-stack projects.
 
----
 
 > ⚠️ **Note:** My Github is an evolving project that I update when time allows, because, well, life happens. Some sections may be in progress or marked with notes if they haven’t been started or fully completed yet. It's more like a living portfolio than a static snapshot.
 
----
 
 ### 🚀 Cool Projects
 
