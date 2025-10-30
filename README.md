@@ -23,11 +23,13 @@ Some of the projects I’m most proud of are the ones that best reflect my appro
 
 These include:
 
-- **[React Lab Mono](https://github.com/giuseppe-messi/react-lab-mono)**: a monorepo containing a React **Design System** and its **Storybook** documentation site.
+- **[React Lab Mono](https://github.com/giuseppe-messi/react-lab-mono)**: A monorepo containing a React **Design System** and its **Storybook** documentation site.
 
-- **[Auth-Guarded Hub](https://github.com/giuseppe-messi/auth-guarded-hub)**: a full-stack app with protected routes, authentication, and a Netlify + Prisma backend.
+- **[ChatApp](https://github.com/giuseppe-messi/chatapp)**: A full-stack real-time chat application built with React, TypeScript, Node.js, Express, Prisma, MongoDB and Socket.io.
 
-- **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/optimistic-ui-sandbox)**: a frontend project focused on state management, mocked APIs, and optimistic UI updates.
+- **[Auth-Guarded Hub](https://github.com/giuseppe-messi/auth-guarded-hub)**: A full-stack app with protected routes, authentication, and a Netlify + Prisma backend.
+
+- **[Optimistic UI Sandbox](https://github.com/giuseppe-messi/optimistic-ui-sandbox)**: A frontend project focused on state management, mocked APIs, and optimistic UI updates.
 
 Feel free to jump to any repos using the links above!
 
