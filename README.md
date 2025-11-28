@@ -39,7 +39,7 @@ Feel free to jump to any repos using the links above!
 
 I also maintain several smaller projects and experiments:
 
-- **[portfolio-page](https://github.com/giuseppe-messi/portfolio)**: my personal portfolio site
+- **[portfolio-page](https://github.com/giuseppe-messi/giuseppemessina)**: my personal site
 - **shop-order-system**: an online shop ordering system built with Python
 - **linked-list-sort**: a Python implementation of a linked-list sorting algorithm
 - **huffman-coding**: a Python implementation of the Huffman compression algorithm
